@@ -20,6 +20,8 @@ DK
 DK! Donkey Kong!
 DK! Donkey Kong is here!
 
+Mario
+
 C
 
 MG

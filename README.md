@@ -17,6 +17,8 @@ Callum was here
 All comment here:
 DK
 DK
+DK! Donkey Kong!
+DK! Donkey Kong is here!
 
 C
 

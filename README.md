@@ -26,6 +26,8 @@ A
 
 PLUH PLUH
 
+PLUH
+PLUM
 
 12345
 

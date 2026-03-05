@@ -1,7 +1,7 @@
 This is just a demo repository
 
 A comment here:
-A was here!
+A was here.
 
 Signed - Matt
 
